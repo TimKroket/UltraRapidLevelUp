@@ -1,0 +1,3 @@
+C:\Users\Jean-Marie\Desktop\AutoLevelup\bin\Release\AutoLevelup.exe.config
+C:\Users\Jean-Marie\Desktop\AutoLevelup\AutoLevelUp\bin\Release\AutoLevelup.exe.config
+C:\Users\Jean-Marie\Desktop\AutoLevelup\UltraRapidFire_AutoLevelUp\bin\Release\AutoLevelup.exe.config
